@@ -1,2 +1,3 @@
 # Pruebas-Python
-Un reprositorios para nuestras pruebas en Python
+
+Aquí es donde almacenare todos mis tests y proyectos en Python 
