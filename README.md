@@ -1,3 +1,5 @@
 # Pruebas-Python
 
-Aquí es donde almacenare todos mis tests y proyectos en Python 
+Un repositorio para mis tests y proyectos en Python 
+
+Aqui es donde almacenare todos mis test y proyectos en Python
